@@ -48,7 +48,7 @@ global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '🔆'
+global.themeemoji = '🥶'
 global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
